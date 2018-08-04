@@ -1,6 +1,6 @@
 {
   "name": "ionic2-2048",
-  "app_id": "",
+  "integrations": {},
   "v2": true,
   "typescript": true
 }
